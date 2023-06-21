@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+numpy
+pandas
+wordcloud
+plotly
+st-annotated-text
+openpyxl
+streamlit-modal
